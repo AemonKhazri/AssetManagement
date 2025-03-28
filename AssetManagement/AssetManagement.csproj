@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!--<Nullable>enable</Nullable>-->
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-AssetManagement-fb0be5ba-668f-4b34-8c29-6ea542a8a4c2</UserSecretsId>
   </PropertyGroup>
