@@ -1,0 +1,3 @@
+C:\Users\lenovo\source\repos\AssetManagement\AssetManagement.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\AssetManagement\AssetManagement.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenovo\source\repos\AssetManagement\AssetManagement.Client\obj\Debug\net8.0\staticwebassets.build.json
